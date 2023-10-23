@@ -1,0 +1,3 @@
+Bandit,Reward,Algorithm
+EpsilonGreedy,7976,Epsilon-Greedy
+ThompsonSampling,7932,Thompson Sampling
